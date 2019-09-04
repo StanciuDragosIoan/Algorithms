@@ -20,6 +20,8 @@ function matrix(vector, n) {
     }
     // console.table(output);
     return output;
+
 }
 
-console.table(matrix(vector, 7));
+console.table(matrix(vector, 3));
+//matrix(vector, 10);
